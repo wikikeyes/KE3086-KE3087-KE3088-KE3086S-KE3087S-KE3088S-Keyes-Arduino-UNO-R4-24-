@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: KE3086-KE3087-KE3088(KE3086S-KE3087S-KE3088S) Keyes Arduino UNO R4 24款传感器学习套装
+   :caption: Keyes Arduino UNO R4 24款传感器学习套装
 
    README.md
    docs/index
