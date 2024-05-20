@@ -87,7 +87,7 @@ Keyes Arduino UNO R4 24款传感器学习套装主要包含了我们常用的2
 | 28 | ![](media/9G.png)  | ![](media/9G.png)   | 舵机 配十字臂  | 1 |
 |29  | ![](media/11946.png) |![](media/11946.png)|风扇叶|1|
 | 30 | ![](media/remotecontrol.png) | ![](media/remotecontrol.png) | 遥控器  | 1 |
-| 31 | ![](media/电源.png)    | ![](media/电源.png)     | 电源适配器  | 1      |
+| 31 | ![](media/ABC.png)    | ![](media/ABC.png)     | 电源适配器  | 1      |
 | 32 | ![](media/USB.jpg)  | ![](media/USB.jpg)   | USB线   | 1  |
 | 33 | ![](media/3pin.png)  | ![](media/3pin.png)   | 3P线 (反向)| 5 |
 |34 | ![](media/4pin.png)  | ![](media/4pin.png)   | 4P线 (反向)  | 3 |
