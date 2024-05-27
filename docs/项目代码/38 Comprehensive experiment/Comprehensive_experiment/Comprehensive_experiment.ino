@@ -48,6 +48,7 @@ void setup() {
   pinMode(Touch, INPUT);//电容触摸传感器
   attachInterrupt(digitalPinToInterrupt(Touch), counter, FALLING);  //外部中断0，下降沿触发
   pinMode(Avoid, INPUT);//避障传感器
+  pinMode(resPin, INPUT);//滑动电位器
   pinMode(Trig, OUTPUT);//超声波传感器
   pinMode(Echo, INPUT);
   pinMode(LED_PIN, OUTPUT);
